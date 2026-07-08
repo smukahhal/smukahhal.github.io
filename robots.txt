@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Machine-readable site summary for AI systems
+# https://isolie.com/llms.txt

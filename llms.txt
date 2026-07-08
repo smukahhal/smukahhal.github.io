@@ -1,0 +1,25 @@
+# Sulaiman Mukahhal
+
+> Architect of Auditable AI Systems and Institutional Decision Architectures.
+
+Personal professional website at https://isolie.com
+
+## About
+
+- [Home](https://isolie.com/): Professional profile covering structured information systems, governance-aware AI architecture, decision traceability, and responsible model deployment for institutional environments.
+
+## Core Domains
+
+- Institutional Information Architecture
+- AI Governance and Audit Frameworks
+- Model Evaluation and LLM Benchmarking
+
+## Contact
+
+- Professional enquiries: s [at] isolie.com
+- [LinkedIn](https://www.linkedin.com/in/smukahhal/)
+- [GitHub](https://github.com/smukahhal)
+
+## Optional
+
+- Publications: to be added.
